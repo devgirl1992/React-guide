@@ -1,0 +1,14 @@
+.Person {
+  box-sizing: border-box;
+  background-color: hotpink;
+  width: 25%;
+  margin: auto;
+  border: 2px dashed darkblue;
+  box-shadow: 0 2px 3px rgb(4, 245, 213);
+  padding: 15px;
+ text-align: center;
+ display: inline-block;
+ margin-right: 25px;
+ margin-bottom: 50px;
+ 
+}
